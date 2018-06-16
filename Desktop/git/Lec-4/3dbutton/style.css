@@ -1,0 +1,22 @@
+div{
+    margin: 30pt;
+    padding:30pt;
+    background-color: blueviolet;
+    display: inline-block;
+    width: 70pt;
+    height: 50pt;
+    box-shadow: 4px 4px 2px grey;
+    position: relative;
+}
+div:active
+{
+    top: 5pt;
+    left: 5pt;
+    box-shadow: 0px 0px 2px grey;
+}
+div:hover
+{
+    bottom: 5pt;
+    right: 5pt;
+    box-shadow: 8px 8px 4px grey;
+}

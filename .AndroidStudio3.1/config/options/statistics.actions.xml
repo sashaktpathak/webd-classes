@@ -1,0 +1,52 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="4" />
+      <entry action="$Cut" count="1" />
+      <entry action="$Delete" count="7" />
+      <entry action="$Paste" count="3" />
+      <entry action="$Undo" count="59" />
+      <entry action="Android.HotswapChanges" count="4" />
+      <entry action="Android.RunAndroidAvdManager" count="7" />
+      <entry action="CloseProject" count="1" />
+      <entry action="Create method from usage" count="1" />
+      <entry action="EditorBackSpace" count="912" />
+      <entry action="EditorChooseLookupItem" count="777" />
+      <entry action="EditorCopy" count="7" />
+      <entry action="EditorCut" count="17" />
+      <entry action="EditorDelete" count="2" />
+      <entry action="EditorDown" count="1347" />
+      <entry action="EditorDownWithSelection" count="61" />
+      <entry action="EditorEnter" count="414" />
+      <entry action="EditorIndentSelection" count="3" />
+      <entry action="EditorLeft" count="1281" />
+      <entry action="EditorLeftWithSelection" count="488" />
+      <entry action="EditorPaste" count="23" />
+      <entry action="EditorRight" count="1996" />
+      <entry action="EditorRightWithSelection" count="577" />
+      <entry action="EditorSelectWord" count="1" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorTab" count="42" />
+      <entry action="EditorUp" count="610" />
+      <entry action="EditorUpWithSelection" count="36" />
+      <entry action="ExpressionTypeInfo" count="1" />
+      <entry action="FileChooser.Delete" count="2" />
+      <entry action="GotoDeclaration" count="2" />
+      <entry action="MakeGradleProject" count="47" />
+      <entry action="NewAndroidImageAsset" count="1" />
+      <entry action="NewClass" count="3" />
+      <entry action="NewDir" count="4" />
+      <entry action="NewProject" count="9" />
+      <entry action="OpenFile" count="4" />
+      <entry action="RevealIn" count="5" />
+      <entry action="Run" count="57" />
+      <entry action="SaveAll" count="5" />
+      <entry action="SearchEverywhere" count="1" />
+      <entry action="ShowErrorDescription" count="3" />
+      <entry action="ShowIntentionActions" count="2" />
+      <entry action="ToggleLineBreakpoint" count="2" />
+      <entry action="template.create.ActivityEmpty Activity" count="5" />
+      <entry action="template.create.FragmentFragment (Blank)" count="6" />
+    </counts>
+  </component>
+</application>

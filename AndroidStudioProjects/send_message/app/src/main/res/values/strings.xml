@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">send_message</string>
+    <string name="sendbtn">Send Message</string>
+    <string name="choosername">Choose App you Want to use</string>
+</resources>
